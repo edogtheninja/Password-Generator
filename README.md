@@ -12,7 +12,7 @@
 * When the user answers all the questions, the password is generated on the screen matching the selected criteria .  
 
 
-See live version here: []()
+See live version here: [https://edogtheninja.github.io/Password-Generator/](https://edogtheninja.github.io/Password-Generator/)
 
 ### **Preview**
 
